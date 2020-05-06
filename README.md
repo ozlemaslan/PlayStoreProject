@@ -8,4 +8,4 @@
 
 #Playstore da bulunan uygulamaların ne kadar yıldız alacağını tahmin etmeye çalıştık. 
 
-#Linkedin : linkedin.com/in/ozlemmaslan
+#Linkedin : https://www.linkedin.com/in/ozlemmaslan
