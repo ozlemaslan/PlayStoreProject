@@ -4,6 +4,8 @@
 
 #Kaggle da bulunan googleplaystore dataseti kullanılmıştır.
 
+#Dataset linki: https://www.kaggle.com/lava18/google-play-store-apps
+
 #Playstore da bulunan uygulamaların ne kadar yıldız alacağını tahmin etmeye çalıştık. 
 
 #Linkedin : linkedin.com/in/ozlemmaslan
